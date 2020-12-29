@@ -1,0 +1,13 @@
+Sentiment-Analysis-on-Twitter-US-2020-Elections
+
+This is a sentiment analysis on the Twitter US 2020 election environment using Python. 
+It takes tweets as inputs and evaluates who the tweet relates to and whether the sentiment is positive or negative. 
+The files corpus.txt, stop_words.txt, and us_election_tweets were provided by the University of Toronto Faculty of Information from the INF1340H course. 
+		
+This project focuses on the following:
+	- Clean and parse the tweets
+	- Determin the candidate relation
+	- Determine the sentiment score from 0 to 1
+	- Predict the number of supporters for each candidate
+	- Analyze the popularity of each candidate throughout the months
+	- Visualize the most commonly used words for each candidate
